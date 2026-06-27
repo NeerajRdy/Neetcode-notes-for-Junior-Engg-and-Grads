@@ -1,110 +1,40 @@
-# NeetCode Notes
-# NeetCode Notes
+# Knowledge Consolidation (Stage 4)
 
-## Objective
+After completing every NeetCode problem, build a reusable knowledge base.
 
-Master the fundamental coding interview patterns behind the NeetCode 150 so that I can solve unseen interview problems confidently without relying on memorized solutions.
+Summarize in the following format:
 
-For every problem solved, I focus on understanding **why the algorithm works**, **how to recognize the pattern**, and **where it applies in real-world systems**.
+### Pattern Summary
 
----
+* Pattern Name
+* Core Idea (one sentence)
+* When to Use
+* When Not to Use
+* Time Complexity
+* Space Complexity
 
-# Knowledge Consolidation Template (Stage 4)
+### Recognition Checklist
 
-Complete the following after solving every NeetCode problem to build a reusable interview handbook.
+What clues in a problem statement should immediately make me think of this pattern?
 
-## Pattern Summary
+### Mental Model
 
-### Pattern Name
+A simple analogy or visualization that makes the pattern easy to remember.
 
-### Core Idea
+### Real-World Applications
 
-*A one-sentence explanation of the underlying algorithmic idea.*
+Explain where this pattern is used in production software or distributed systems (Amazon, Google, Meta, databases, networking, operating systems, caching, search engines, etc.).
 
-### When to Use
+### Similar Patterns
 
-### When Not to Use
+Compare this pattern with related patterns and explain how to choose between them.
 
-### Time Complexity
+### Common Mistakes
 
-### Space Complexity
+List the most common implementation mistakes, incorrect assumptions, and edge cases.
 
----
+### Pattern Cheat Sheet
 
-## Recognition Checklist
+Summarize the entire problem in 5–10 bullet points that can be reviewed in under one minute.
 
-**What clues in the problem statement should immediately make me think of this pattern?**
-
-* [ ]
-* [ ]
-* [ ]
-* [ ]
-
----
-
-## Mental Model
-
-Describe a simple visualization, analogy, or intuition that makes the pattern easy to remember.
-
----
-
-## Real-World Applications
-
-Where is this pattern used in production systems?
-
-Examples:
-
-* Amazon
-* Google
-* Meta
-* Databases
-* Operating Systems
-* Networking
-* Distributed Systems
-* Search Engines
-* Caching
-* File Systems
-
----
-
-## Similar Patterns
-
-Compare this pattern with closely related approaches.
-
-| Pattern | Difference | When to Choose |
-| ------- | ---------- | -------------- |
-|         |            |                |
-|         |            |                |
-|         |            |                |
-
----
-
-## Common Mistakes
-
-List the most common implementation bugs, incorrect assumptions, and edge cases.
-
-* [ ]
-* [ ]
-* [ ]
-* [ ]
-
----
-
-## Pattern Cheat Sheet
-
-Summarize the pattern in **5–10 bullets** that can be reviewed in under one minute.
-
-* •
-* •
-* •
-* •
-* •
-* •
-* •
-* •
-
----
-
-## Goal
-
-By the end of the NeetCode 150, this repository should become a **Pattern Handbook** that allows me to quickly refresh every major coding interview pattern without rereading complete solutions.
+The goal is to create a growing "Pattern Handbook" that I can revisit before interviews instead of rereading complete solutions.
