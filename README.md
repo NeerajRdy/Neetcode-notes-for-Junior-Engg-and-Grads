@@ -1,4 +1,4 @@
-# Knowledge Consolidation (Stage 4)
+# Knowledge Consolidation (For Humans - Junior Dev's and Grads)
 
 After completing every NeetCode problem, build a reusable knowledge base.
 
