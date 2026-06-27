@@ -1,6 +1,6 @@
 # AGENTS.md
 
-# AI Collaboration Guide
+# AI Collaboration Guide (For AI agents and Agentic developers)
 
 This repository is not intended to be a collection of memorized LeetCode solutions.
 
